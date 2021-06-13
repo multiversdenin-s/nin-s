@@ -1,0 +1,32 @@
+
+    footer p{ 
+
+       
+        color: rgb(181, 238, 238);
+        font-family: 'Montserrat', sans-serif;  
+        text-align: center;
+        width:100%;
+       
+       
+    }
+
+    footer{
+        display: flex;
+        align-items: center;
+    z-index: 1;
+    width: 100%;
+    position: static;
+    background-color: rgba(0, 0, 0, 0.459);
+    height: 5vh;
+    
+
+   
+    }
+
+    footer div {
+        width: 100%;
+        
+    }
+
+
+    
